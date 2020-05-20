@@ -1,6 +1,6 @@
 # bibfile2ADSlibrary
 
-Add the entries from a BibTeX file .bib to your ADS library.
+Add the entries from a BibTeX file .bib to your [ADS](https://ui.adsabs.harvard.edu/) library.
 
 To use execute the bash script from the command line
 ```bash
